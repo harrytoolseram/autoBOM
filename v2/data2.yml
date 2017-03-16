@@ -1,0 +1,77 @@
+---
+SKU: MPC4E-3D-2CGE8XGE-R-B
+Type: MPC
+MPCBW: 240
+Provides:
+  - et100: 2
+    xe: 8
+  - ports: NA
+Consumes:
+  MPCslot: 1
+Price: 370000
+Info: NA
+Alerts: NA
+---
+SKU: MPC4E-3D-32XGE-R-B
+Type: MPC
+MPCBW: 240
+Provides:
+  - xe: 32
+  - ports: NA
+Consumes:
+  MPCslot: 1
+Price: 340000
+Info: Allows oversubscription of 8x10GE ports
+Alerts: NA
+---
+SKU: MPC5E-100G10G-RB
+Type: MPC
+MPCBW: 240
+Provides:
+  - et100: 2
+    xe: 4
+  - ports: NA
+Consumes:
+  MPCslot: 1
+Price: 387000
+Info: NA
+Alerts: NA
+---
+SKU: MPC5E-40G10G-RB
+Type: MPC
+MPCBW: 240
+Provides:
+  - et: 6
+    xe: 24
+  - ports: NA
+Consumes:
+  MPCslot: 1
+Price: 345000
+Info: NA
+Alerts: NA
+---
+SKU: MPC7E-MRATE-RB
+Type: MPC
+MPCBW: 480
+Provides:
+  - et100: 4
+    et: 12
+    xe: 48
+  - ports: 12
+Consumes:
+  MPCslot: 1
+Price: 345000
+Info: NA
+Alerts: NA
+---
+SKU: MPC7E-10G-RB
+Type: MPC
+MPCBW: 400
+Provides:
+  - xe: 40
+  - ports: NA
+Consumes:
+  MPCslot: 1
+Price: 290000
+Info: NA
+Alerts: NA

@@ -1,0 +1,69 @@
+---
+SKU: MPC2E-3D-NG-R-B
+Type: MPC
+MPCBW: 80
+Provides:
+  MICslot: 1
+Consumes:
+  MPCslot: 1
+Price: 70000
+Info: NA
+Alerts: NA
+---
+SKU: MPC3E-3D-NG-R-B
+Type: MPC
+MPCBW: 130
+Provides:
+  MICslot: 1
+Consumes:
+  MPCslot: 1
+Price: 105000
+Info: NA
+Alerts: NA
+---
+SKU: MPC4E-3D-2CGE8XGE-R-B
+Type: MPC
+MPCBW: 240
+Provides:
+  - et100: 2
+    xe: 8
+Consumes:
+  MPCslot: 1
+Price: 370000
+Info: NA
+Alerts: NA
+---
+SKU: MPC4E-3D-32XGE-R-B
+Type: MPC
+MPCBW: 240
+Provides:
+  - xe: 32
+Consumes:
+  MPCslot: 1
+Price: 340000
+Info: Allows oversubscription of 8x10GE ports
+Alerts: NA
+---
+SKU: MPC5E-100G10G-RB
+Type: MPC
+MPCBW: 240
+Provides:
+  - et100: 2
+    xe: 4
+Consumes:
+  MPCslot: 1
+Price: 112000
+Info: NA
+Alerts: NA
+---
+SKU: MPC5E-40G10G-RB
+Type: MPC
+MPCBW: 240
+Provides:
+  - et: 6
+    xe: 24
+Consumes:
+  MPCslot: 1
+Price: 58000
+Info: NA
+Alerts: NA
